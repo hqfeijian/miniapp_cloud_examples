@@ -33,12 +33,8 @@
 
 ![avatar](https://mmbiz.qpic.cn/mmbiz_jpg/nJPznPUZbhqicMrM2ibcZkmPowTpA3jhENjdZDIwsHbhunvvxNmRQM9uzuqqjtxCygk8YyGcJNa4iaoNZpmLJ85NQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
 
-####  8、博客小程序 37★
-链接：https://github.com/xuhuai66/wxapp-blog
 
-![avatar](https://mmbiz.qpic.cn/mmbiz_jpg/nJPznPUZbhqicMrM2ibcZkmPowTpA3jhENjdZDIwsHbhunvvxNmRQM9uzuqqjtxCygk8YyGcJNa4iaoNZpmLJ85NQ/640?wx_fmt=jpeg&tp=webp&wxfrom=5&wx_lazy=1&wx_co=1)
-
-####  9、垃圾分类小程序
+####  8、垃圾分类小程序
 链接：https://github.com/zhangliwen1101/Garbage
 
 ![avatar](https://raw.githubusercontent.com/zhangliwen1101/Images/master/img/garbage/05.jpg)
