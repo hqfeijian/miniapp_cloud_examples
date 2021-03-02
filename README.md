@@ -39,4 +39,19 @@
 
 ![avatar](https://raw.githubusercontent.com/zhangliwen1101/Images/master/img/garbage/05.jpg)
 
+#### 9、旅游小程序（taro构建）
+链接：https://github.com/Mayandev/wetour
+![avatar](https://camo.githubusercontent.com/769686a15b17270c4f473f04ecad721aa3871a7e9445a0ca83d20492f4f0293d/68747470733a2f2f6d6179616e6465762e6f73732d636e2d68616e677a686f752e616c6979756e63732e636f6d2f626c6f672f7765746f75722d312e706e67)
+
+#### 10、旅游小程序（小程序+后端Koa框架）
+链接：https://github.com/cmh1996/wx-APP
+![avatar](https://github.com/cmh1996/wx-APP/raw/master/screen/index.gif)
+
+#### 11、多个行业小程序源码案例
+功能范围覆盖外卖、电商、零售、分销、食品、餐饮、平台多商家、婚庆、鲜花、酒店、酒吧、教育、KTV、商超、旅游、运动、健身、美容、装修、母婴、汽车、企业展示、美发、美业、视频展示、律师、化妆品、商会、蛋糕、家电、家装、奶茶、媒体、优惠券等主流行业的微信小程序模板
+链接：https://github.com/finalvip/weapp_template
+![avatar](https://github.com/finalvip/weapp_template/raw/master/images/20180820154136.jpg)
+
+
+
 持续更新中~
